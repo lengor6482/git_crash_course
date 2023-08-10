@@ -1,0 +1,2 @@
+People who are really serious about software should make their own hardware.
+I don't know how many of you have ever met Dijkstra, but you probably know that arrogance in computer science is measured in nano-Dijkstras
