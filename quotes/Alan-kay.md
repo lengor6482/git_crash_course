@@ -1,0 +1,5 @@
+"Point of view is worth 80 IQ points."
+"The only way you can predict the future is to build it."
+"If you’re not failing 90% of the time, then you’re probably not working on sufficiently challenging problems."
+"The most disastrous thing that you can ever learn is your first programming language."
+"Technology is anything invented after you were born."
