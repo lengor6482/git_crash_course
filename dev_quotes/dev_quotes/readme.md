@@ -17,4 +17,5 @@ The list of software developers
 - Larry Wall
 - Alan Kay
 - Cunningham Beck
-
+- Bjarne Stroustrup
+- 
